@@ -5,9 +5,6 @@ collections:
   files:
     title: Files
     output: true
-  list:
-    title: List
-    output: true
   people:
     title: People
     output: true
